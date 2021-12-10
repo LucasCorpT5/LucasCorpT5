@@ -10,11 +10,10 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCorpT5&show_icons=true&theme=blue-green&count_private=true)
 
-<div align="left">
+<!-- <div align="left">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=blue-green"/>
   <a href="https://github.com/LucasCorpT5">
-</div>
-
+</div> -->
 
 ## Technologies I use in my day
 
