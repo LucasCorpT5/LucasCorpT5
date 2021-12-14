@@ -1,3 +1,4 @@
+
 # Hi I'm Lucas Araujo 🖐️
 
 ### At age 12 I found a security hole at [twitch.tv](https://www.twitch.tv/)
@@ -11,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucasTcca)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lucasaraujotda13)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCorpT5&show_icons=true&theme=blue-green&count_private=true)
+<img src="https://middleware.io/wp-content/uploads/2021/09/What-are-microservices_-How-does-microservices-architecture-work_.jpg"/>
 
 <!-- <div align="left">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=blue-green"/>
