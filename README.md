@@ -1,5 +1,5 @@
 
-# Hi I'm Lucas Araujo 🖐️
+# Hi I'm Lucas Araujo 🚀
 
 ### At age 12 I found a security hole at [twitch.tv](https://www.twitch.tv/)
 ### I finished the CS50 course of harvard
