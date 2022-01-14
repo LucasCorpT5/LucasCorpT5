@@ -13,12 +13,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucasTcca)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lucasaraujotda13)
 
-<!-- <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/131097341/original/e8ca1c5e1cc23817f95e254a03c8d9afdfd37f9c/review-your-python-code.png"/> -->
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/131097341/original/e8ca1c5e1cc23817f95e254a03c8d9afdfd37f9c/review-your-python-code.png"/>
 
-<!-- <div align="left"> -->
-<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=blue-green"/> -->
-<!--   <a href="https://github.com/LucasCorpT5"> -->
-<!-- </div> -->
+<div align="left"> 
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=blue-green"/> -->
+      <a href="https://github.com/LucasCorpT5"> -->
+</div> 
 
 ## Technologies I use in my day
 
