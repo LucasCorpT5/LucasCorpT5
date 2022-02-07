@@ -3,7 +3,7 @@
 
 ### At age 12 I found a security hole at [twitch.tv](https://www.twitch.tv/)
 ### I finished the CS50 course of harvard
-### My main language is python3
+### My main languages is Python3 and Golang
 
 ### Articles in https://dev.to/lucastcca 
 ### Stories in https://medium.com/@contatolucas222git
