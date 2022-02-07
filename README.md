@@ -16,7 +16,7 @@
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/131097341/original/e8ca1c5e1cc23817f95e254a03c8d9afdfd37f9c/review-your-python-code.png"/>
 
 <div align="left"> 
-      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=blue-green"/>
+      <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=dark"/>
       <a href="https://github.com/LucasCorpT5">
 </div> 
 
