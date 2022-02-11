@@ -3,7 +3,7 @@
 
 ### At age 12 I found a security hole at [twitch.tv](https://www.twitch.tv/)
 ### I finished the CS50 course of harvard
-### My main languages is Python3 and Golang
+### My main languages is Python Golang and Java
 
 ### Articles in https://dev.to/lucastcca 
 ### Stories in https://medium.com/@contatolucas222git
@@ -12,8 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasaaaaaaaaaaaaaa/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucasTcca)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lucasaraujotda13)
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjsonworld.com%2Fcontent%2Fuploads%2Fimage%2Fgolang-vs-python.jpg&f=1&nofb=1"/>
 
 <div align="left"> 
       <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=blue-green"/>
