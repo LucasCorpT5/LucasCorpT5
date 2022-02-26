@@ -13,11 +13,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucasTcca)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lucasaraujotda13)
 
-<div align="left"> 
-      <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorpT5&layout=compact&langs_count=7&theme=blue-green"/>
-      <a href="https://github.com/LucasCorpT5">
-</div> 
-
 ## Technologies I use in my day
 
 <div style="display: inline_block">
