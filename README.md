@@ -1,7 +1,7 @@
 
 # Hi I'm Lucas Araujo 🚀
 
-### Kagle: [kagle](https://www.kaggle.com/captalize)
+### Kagle: https://www.kaggle.com/captalize
 ### At age 12 I found a security hole at [twitch.tv](https://www.twitch.tv/)
 ### I finished the CS50 course of harvard
 ### My main languages is Python Java C++ Javascript and Typescript
