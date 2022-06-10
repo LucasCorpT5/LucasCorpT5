@@ -9,6 +9,7 @@
 ### Articles in https://dev.to/lucastcca 
 ### Stories in https://medium.com/@contatolucas222git
 ### CodeForces: https://codeforces.com/profile/LucasAraujo
+### Neps Academy: https://neps.academy/br/user/19440
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatolucas222git@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasaaaaaaaaaaaaaa/)
