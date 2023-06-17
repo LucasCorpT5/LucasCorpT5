@@ -1,13 +1,11 @@
 
 # Hi I'm Lucas Araujo 🚀
 
-### Kagle: https://www.kaggle.com/captalize
 ### At age 12 I found a security hole at [twitch.tv](https://www.twitch.tv/)
 ### I finished the CS50 course of harvard
-### My main languages is Python Java C++ Javascript and Typescript
+### My main languages is Python Javascript and Typescript
 
 ### Articles in https://dev.to/lucastcca 
-### Stories in https://medium.com/@contatolucas222git
 ### CodeForces: https://codeforces.com/profile/LucasAraujo
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatolucas222git@gmail.com)
